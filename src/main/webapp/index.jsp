@@ -10,8 +10,6 @@
 	<h1 style="color: grey; font-size: 40px;" align="center">we are done with ci/cd</h1>
 
 	<h1 style="color: grey; font-size: 40px;" align="center">something with ci/cd</h1>
-
-	<h1 style="color: grey; font-size: 40px;" align="center">let's do somethingg bigg</h1>
 	
 	
 	
